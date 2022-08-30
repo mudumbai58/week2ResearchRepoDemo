@@ -13,5 +13,16 @@ https://scratch.mit.edu/projects/724239553
 ## Week 2:
 
 ### What is git?
-
+Git is a specific open-source version control system created by Linus Torvalds in 2005.
+Specifically, Git is a distributed version control system, which means that the entire codebase and history is available on every developer’s computer, which allows for easy branching and merging.
+According to a Stack Overflow developer survey, over 87% of developers use Git.
 ### What is GitHub?
+GitHub is a for-profit company that offers a cloud-based Git repository hosting service. Essentially, it makes it a lot easier for individuals and teams to use Git for version control and collaboration.
+
+GitHub’s interface is user-friendly enough so even novice coders can take advantage of Git. Without GitHub, using Git generally requires a bit more technical savvy and use of the command line.
+
+GitHub is so user-friendly, though, that some people even use GitHub to manage other types of projects – like writing books.
+
+Additionally, anyone can sign up and host a public code repository for free, which makes GitHub especially popular with open-source projects.
+
+As a company, GitHub makes money by selling hosted private code repositories, as well as other business-focused plans that make it easier for organizations to manage team members and security. We utilize Github extensively at Kinsta to manage and develop internal projects.
